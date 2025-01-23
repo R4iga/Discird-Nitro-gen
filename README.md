@@ -1,2 +1,2 @@
-# Discird-Nitro-gen
+# Discord-Nitro-gen
 Nitrogen
